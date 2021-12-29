@@ -1,3 +1,3 @@
 # static-E-com
 
-This is a sataic ecommerce built by me.
+This is a static ecommerce built by me.
